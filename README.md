@@ -33,6 +33,10 @@ An AI-powered Machine Learning web application that predicts whether a customer�
 * Loan Approved ✅
 * Loan Rejected ❌
 
+## 🌐 Live Demo
+
+https://creditwise-loan-approval-system-59lpwcxw8uqkjk8kyfbbgk.streamlit.app/
+
 ## ▶ Run Project
 
 ```bash
